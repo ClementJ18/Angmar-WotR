@@ -1,0 +1,161 @@
+
+SCRIPT:GUNDABAD_OBJ_1
+"Beweise die Macht Angmars, indem du 300 Köpfe von niederen Orks sammelst."
+End
+
+SCRIPT:GUNDABAD_OBJ_2
+"Rogash muss überleben."
+End
+
+SCRIPT:GUNDABAD_OBJ_3
+"Rogash muss in den Orklagern 3 Schädelhaufen aus Orkköpfen zerstören."
+End
+
+
+SCRIPT:GUN_INTRO_1
+"ROGASH: Sprich."
+End
+
+SCRIPT:GUN_INTRO_51
+"ANGMAR-OFFIZIER: Die Orks wählen einen neuen Anführer. Sie veranstalten deshalb eine Art Turnier."
+End
+
+SCRIPT:GUN_INTRO_81
+"ANGMAR-OFFIZIER: Der erste Anführer der 250 Köpfe von niederen Orks sammelt soll der neue Herrscher von Gundabad werden."
+End
+
+SCRIPT:GUN_INTRO_21
+"ANGMAR-OFFIZIER: Die Anführer sind schon ausgezogen um niedere Orks zu töten. \n Sie bekämpfen sich aber auch gegenseitig."
+End
+
+SCRIPT:GUN_INTRO_91
+"ANGMAR-OFFIZIER: Einige der Anführer wurden bereits eliminiert, sowohl durch Verrat als auch durch Hinterhalte."
+End
+
+SCRIPT:GUN_INTRO_31
+"ANGMAR-OFFIZIER: Es scheint, dass die niederen Orks nicht gern zum Spaß gejagt werden."
+End
+
+SCRIPT:GUN_INTRO_41
+"ROGASH: Gut gemacht. Spähe weiter Feind aus. Ich rufe wenn benötigen."
+End
+
+SCRIPT:GUN_INTRO_61
+"ANGMAR-OFFIZIER: Verstanden."
+End
+
+SCRIPT:GUN_INTRO_101
+"Wenn wir 300 niederen Orks töten kann kein anderer Anführer gewinnen."
+End
+
+SCRIPT:GUN_INTRO_111
+"Verstärkung wartet auf ihren Befehl. Ihr müsst nur das Signalfeuer entfachen und die Streitmacht wird kommen."
+End
+
+SCRIPT:GUN_INTRO_71
+"ROGASH: Zurück. Sag dem Meister, dass Orks bald unser sein werden. \n Wir bleiben. Wir töten niedere Orks, machen ihr Spiel mit."
+End
+
+SCRIPT:GUN_END_01
+"(Streit zwischen mehreren Anführern)"
+End
+
+SCRIPT:GUN_END_02
+"Anführer 1: Niemand hat mehr Köpfe gesammelt als ich.\nAnführer 2: Ich habe die meisten. \nAnführer 3: Nein! Ich sollte führen! \nAnführer 4: Bah! Du könntest niemals führen! \nAnführer 1: Wenn nicht ich, wer dann?"
+End
+
+SCRIPT:GUN_END_03
+"ROGASH: Ich habe am meisten Köpfe. Ihr nun untestehen mir!"
+End
+
+SCRIPT:GUN_END_04
+"Anführer 1: Gundabad wird sich niemals einem Halbtroll unterwerfen!\nAnführer 2: ... Pah!\nAnführer 4: Kein Troll wird jemals Gundabad befehligen!"
+End
+
+SCRIPT:GUN_END_05
+"ROGASH: Nicht Ich befehligen, Dunkler König wird!"
+End
+
+SCRIPT:GOBLIN_TOWERS_01
+"Diese Türme könnten Bogenschützen haben. Zerstöre die Türme, um sie herauszuholen!"
+End
+
+SCRIPT:WARG_ATTACK_01
+"Der Halb-Troll kommt diesen Weg entlang. Lass ihn nicht noch mehr niederen Orks töten. Stopp ihn!"
+End
+
+SCRIPT:GOB_CAMP_2_RUN
+"LAUF! Lass die Spinnen sich um sie kümmern!"
+End
+
+SCRIPT:SNOW_TROLLS_SEEN
+"Diese Schneestrolle wären in unseren Reihen willkommen. \n Verwende Rogashs `Troll beherschen -Fähigkeit´, um sie zu übernehmen."
+End
+
+SCRIPT:GUN_OBJECTIVE_BOX
+"Du musst mindestens 300 niederen Orks töten, um die anderen Anführer zu gewinnen."
+End
+
+SCRIPT:GUN_RUNAWAY_GOBS
+"Was ist das! Zurück ins Lager! LAUFT!"
+End
+
+SCRIPT:ALL_TOWERS_GONE
+"Alle Kampftürme wurden zerstört."
+End
+
+SCRIPT:TROLL_OBJECTIVE_COMPLETE
+"Bonus: Behersche einen Schneestroll"
+End
+
+SCRIPT:GUNDABAD_ORC_AMBUSH_01
+"Jetzt stirbst du, Halbtroll!"
+End
+
+SCRIPT:GOBLIN_AMBUSH
+"Mehr zum Abschlachten!"
+End
+
+SCRIPT:ORC_CHIEF_02_DEAD
+"Ein weiterer Orkanführer wurde aus dem Turnier entfernt."
+End
+
+SCRIPT:GOBBO_CAMP_5_SEE
+"Da sind Sie! Schnappt sie euch!"
+End
+
+SCRIPT:GUNDABAD_ORC_AMBUSH
+"Die Eindringlinge sind hier! Tötet sie! Tötet sie alle!"
+End
+
+SCRIPT:2ND_WARG_AMBUSH
+"Die Eindringlinge sind hier! Töte sie!"
+End
+
+SCRIPT:KILL_THE_HEAD_PILES
+"Dies müssen die Köpfe sein, die die Orks bereits gesammelt haben. \n Zerstöre sie und alle anderen, die du finden kannst."
+End
+
+SCRIPT:GOBLIN_Highway_AMBUSH
+"Schnappt sie!"
+End
+
+SCRIPT:RANGERS_ARRIVE
+"Meister Rogash - südlich von hier liegt ein großes Orklager, gut verteidigt von Türmen und Truppen. \n Wir schließen uns euch an!"
+End
+
+SCRIPT:GUNDABAD_HEADPILES_DESTROYED
+"Alle Schädelhaufen aus Orkköpfen zerstört"
+End
+
+SCRIPT:GUNDABAD_SIGNALFIRE_REMINDER
+"Entzünde das Signalfeuer, um Verstärkungen zu rufen."
+End
+
+SCRIPT:GUNDABAD_OBJ_7
+"Bonus: Entzünde das Signalfeuer"
+End
+
+SCRIPT:GUNDABAD_FORCES_ARRIVE
+"Eure Streitkräfte werden bald hier sein."
+End

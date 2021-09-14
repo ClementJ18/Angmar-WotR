@@ -1,0 +1,33 @@
+
+SCRIPT:RECOVER_SHARD_INTRO_011
+"ZAPHRAGOR:  Ich spüre kein Leben an diesem Ort."
+End
+
+SCRIPT:Durmarth
+"Du kannst Durmarth von der Festung aus wiederbeleben, seine Fähigkeiten werden dir bei deiner Mission sehr helfen."
+End
+
+SCRIPT:DARK_EYE_POWER_11
+"ZAPHRAGOR: Wir haben hier keine Macht. Es muss einen Grund dafür geben."
+End
+
+SCRIPT:DARK_EYE_POWER_21
+"ZAPHRAGOR: Unsere Stärke kehrt zurück."
+End
+
+SCRIPT:DARK_EYE_POWER_31
+"ZAPHRAGOR: Wir haben unsere Fähigkeiten wieder!"
+End
+
+SCRIPT:DARK_EYE_POWER_41
+"ZAPHRAGOR:  Ja, noch einen und wir haben wieder unsere ganze Kraft!"
+End
+
+SCRIPT:DARK_EYE_POWER_51
+"ZAPHRAGOR: Wir haben unsere ganze Kraft zurück!"
+End
+
+SCRIPT:DARKEYE_OBJ_HINT_06
+"Wir haben Verstärkung erhalten."
+END
+

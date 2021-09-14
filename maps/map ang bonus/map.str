@@ -1,0 +1,109 @@
+
+SCRIPT:AngBonusMissionGildorObjective
+"Finde und vernichte den Hexenkönig, er versteckt sich hier irgendwo in diesen Bergen Angmars."
+End
+
+SCRIPT:ANGBonusMissionScene1Text_011
+"MORNAMARTH: Du bist weit gekommen, Prinzlein. Ich werde dein Blut auf dem Eis Angmars vergießen."
+END
+
+SCRIPT:ANGBonusMissionObjectiveText_031
+"Vernichtet Mornamarth, den Hauptmann von Carn Dûm, und sein Gefolge."
+END
+
+SCRIPT:ANGBonusMissionObjectiveText_041
+"Vernichte den Obersten Zauberer Angmars, um seiner Verderbtheit über dieses Landes ein Ende zu bereiten."
+END
+
+SCRIPT:ANGBonusMissionObjectiveText_08
+"Vernichte Drauglin, den gefürchteten Bestienmeister Angmars!"
+END
+
+SCRIPT:ANGBonusMissionObjectiveText_09
+"Vernichte Durmarth, den Gardisten des Hexenkönigs."
+END
+
+SCRIPT:ANGBonusMissionObjectiveText_10
+"vernichte Zaphragor und bereite seinem Fanatsimus ein Ende."
+END
+
+SCRIPT:ANGBonusMissionObjectiveText_11
+"Vernichte die eiskalte Frau! Befreie diese lande von ihren tödlichen Pfeilen."
+END
+
+SCRIPT:EdainText01
+"Earnil, Earnurs Vater, ist beeindruckt von der Kampfkraft seines Sohnes und hat mehr Truppen zu seiner Hilfe geschickt \n(`Streitmacht Gondors´ Fähigkeiten von Earnur verfügbar)!"
+END
+
+SCRIPT:EdainText02
+"EARNUR: Ah! Der Gardist des Hexenkönigs flieht! Egal, er wird seinen Tod früh genug finden."
+END
+
+SCRIPT:EdainText03
+"GLORFINDEL: Lass seinen Geist jetzt Frieden finden, ruhe sanften Nachkomme von Beorn, du bist frei für seinen Griff"
+END
+
+SCRIPT:EdainText04
+"Unser Lager wurde fertig gestellt!"
+END
+
+SCRIPT:EdainText05
+"ZAPHRAGOR: Mein Leben für den Hexenkönig!"
+END
+
+SCRIPT:EdainText06
+"HELEGWEN: Wie kannst du es wagen, ihn zu berühren?!"
+END
+
+SCRIPT:EdainText07
+"DURMARTH: Neeeeeeeeein!"
+END
+
+SCRIPT:EdainText08
+"Schwarzer Gardist: Ihr werdet den Hexenkönig nicht angreifen, nicht solange wir leben!"
+END
+
+SCRIPT:EdainText09
+"GLORFINDEL: Endlich, Zaphragor wird dem Hexenkönig nicht mehr dienen."
+END
+
+SCRIPT:ANGBonusMissionObjectiveText_12 
+"Tötet Hwaldar und stoppt den Überfall, bevor sie das Lager beim erdboden gleich machen!"
+END
+
+SCRIPT:EdainText10
+"Das Lager wurde zerstört! Wir müssen jetzt mit den Truppen kämpfen, die wir noch haben!"
+END
+
+SCRIPT:EdainText11
+"EARNUR: Da haben sich also Hwaldar und seine Hügelmenschen versteckt! Haltet den Angriff schnell auf, bevor sie unser Lager zerstören."
+END
+
+SCRIPT:EdainText12
+"Das war der letzte von ihnen! \n Wir werden jedoch nicht in der Lage sein, den Schaden zu reparieren, den sie unserem Lager zugefügt haben. \n Hoffentlich haben wir genug Gebäude, um die Offensive auf Angmar fortzuführen."
+END
+
+SCRIPT:EdainText13
+"Der Macht des Hexenkönigs schwindet! Wir haben ihn gleich besiegt!"
+END
+
+SCRIPT:EdainText14
+"Wir haben den Hexenkönig erschlagen! Zerstöre jetzt seine Festung!"
+END
+
+SCRIPT:SummonGildor
+"Komm her, oh mächtiger Krieger!"
+End
+
+SCRIPT:ANGBonusMissionScene2Text_031
+"GLORFINDEL: Wir haben Gulzar und seine verseuchten Diener erschlagen. \n Die Luft fühlt sich schon frischer an."
+END
+
+SCRIPT:ANGBonusMissionObjectiveText_061
+"Besiegt den Hexenkönig von Angmar, um dem Westen den Frieden zu bringen!"
+END
+
+SCRIPT:ANGBonusMissionHintText_31
+"Die legendären Elbenkrieger aus Lindon und die besten Ritter aus Dol Amroth stehen uns heute zur Seite!"
+END
+

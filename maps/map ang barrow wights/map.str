@@ -1,0 +1,23 @@
+
+SCRIPT:ANGMAR_BarrowWights_ObjectiveText_021
+"Gulzar muss überleben."
+END
+
+SCRIPT:ANGMAR_BarrowWights_FinalCutScene_Morgomir_011
+"GULZAR: <Lacht>"
+END
+
+SCRIPT:ANGMAR_BarrowWights_FinalCutScene_Morgomir_021
+"GULZAR:  Wie vortrefflich die Strafe dieses Mannes ist."
+END
+
+SCRIPT:ANGMAR_BarrowWights_FinalCutScene_Morgomir_031
+"GULZAR: Seine Hingabe im Leben wird nur durch seine Ergebenheit im Tod übertroffen."
+END
+
+SCRIPT:ANGMAR_BarrowWights_FinalCutScene_Morgomir_041
+"GULZAR: Möge diese gepeinigte Seele die Anführer unserer Feinde jagen."
+END
+
+
+

@@ -1,0 +1,22 @@
+SCRIPT:ANGBarrowDownsIntroText_022
+"ANGMAR-OFFIZIER: Der Grabhügel ihrer Könige liegt im Südwesten. \n Hwaldar und Gulzar müssen sich beide auf ihn stellen!"
+END
+
+SCRIPT:ANGBarrowDownsObjectiveText_011
+"Hwaldar und Gulzar müssen beide auf dem königlichen Grabhügel Cardolans in Stellung gehen."
+END
+
+SCRIPT:ANGBarrowDownsObjectiveComplete_011
+"Hwaldar und Gulzar stehen auf dem königlichen Grabhügel. \n Das werden die Menschen Cardolans nicht lange dulden..."
+END
+
+SCRIPT:ANGBarrowDownsHintText_031
+"Drauglin ist mit Verstärkung gekommen, um den königlichen Grabhügel zu halten!"
+END
+
+SCRIPT:ANGBarrowDownsHintText_061
+"HEXENKÖNIG: Ich bin gekommen. \n Schickt die Narren aus Cardolan zu ihren gefallenen Vätern!"
+END
+
+
+

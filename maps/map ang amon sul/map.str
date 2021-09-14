@@ -1,0 +1,73 @@
+
+SCRIPT:ANGAmonSulIntroText_021
+"ZAPHRAGOR: Dann wird sie fallen, mein dunkler Gebieter!"
+END
+
+SCRIPT:ANGAmonSulBonusObjectiveText_041
+"Zerstört den nördlichsten Mallorn-Baum, bevor er weiter Tränen der Valar auf unsere Armeen richtet!"
+END
+
+SCRIPT:ANGAmonSulBonusObjectiveText_061
+"Zerstört den Mallorn-Baum im Schatten des Turmes von Amon Sûl. \n Mit seiner Hilfe können die Verteidiger der Feste Hobbit-Bogenschützen zur Hilfe rufen."
+END
+
+SCRIPT:ANGAmonSulHintText_091
+"TIPP: Wir können expandieren, indem wir den Elfenvorposten etwas südlich von hier einnehmen. \n Diese Schwächlinge gehören nicht hierher!"
+END
+
+SCRIPT:ANGAmonSulBonusObjectiveText_011
+"Der Hexenkönig muss Level 6 erreichen."
+END
+
+SCRIPT:ANGAmonSulBonusObjectiveText_021
+"Zaphragor muss Level 6 erreichen."
+END
+
+SCRIPT:ANGAmonSulBonusObjectiveText_03
+"Mornamarth muss Level 6 erreichen."
+END
+
+SCRIPT:ANGAmonSulBonusObjectiveText_031
+"Mornamarth muss Level 6 erreichen."
+END
+
+SCRIPT:ANGAmonSulValarTimer
+"Angriffe der Valar in:"
+END
+
+SCRIPT:ANGAmonSulDunedainTreeTooltip
+"Dieser Mallorn-Baum gewährt den Verteidigern von Amon Sûl die Fähigkeit, Bogenschützen aus dem Auenland zu Hilfe zu rufen."
+END
+
+SCRIPT:ANGAmonSulObjectiveComplete_081
+"Wir haben den Baum gefällt, der uns mit den Tränen der Valar geschadet hat!"
+END
+
+SCRIPT:ANGAmonSulObjectiveComplete_0101
+"Nie mehr werden sie die erbärmlichen Hobbits um Hilfe bitten ... der Baum ist gefällt.!"
+END
+
+SCRIPT:ANGElvenLords
+"Elbenfürst: Ihr werdet diese Festung nicht zerstören, nicht solange wir noch leben."
+END
+
+SCRIPT:ANGZaphragorBoomTime
+"ZAPHRAGOR: Dann töten wir euch eben alle."
+End
+
+SCRIPT:ANGAmonSulObjectiveComplete_041
+"Der Hexenkönig hat Level 6 erreicht!"
+END
+
+SCRIPT:ANGAmonSulObjectiveComplete_051
+"Zaphragor hat Level 6 erreicht!"
+END
+
+SCRIPT:ANGAmonSulObjectiveComplete_061
+"Mornamarth hat Level 6 erreicht!"
+END
+
+SCRIPT:ANGAmonSulObjectiveComplete_081
+"Arnors Verbindung mit den Valar wurde getrennt! Nicht länger werden unsere Armeen ihren Zorn fürchten müssen!"
+END
+

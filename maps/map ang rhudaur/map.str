@@ -1,0 +1,25 @@
+
+SCRIPT:AngRhudaurObjectiveText_06
+"Zaphragor muss überleben, um Hwaldar bei seinen Aufständen zu helfen."
+END
+
+SCRIPT:AngRhudaurObjectiveText_07
+"Helegwen muss überleben, um Hwaldar bei seinen Aufständen zu helfen."
+END
+
+SCRIPT:AngRhudaurObjectiveText_08
+"Mornamarth muss überleben. Wenn er stirbt, werden sich die Männer Carn Dûm´s zurückziehen"
+END
+
+SCRIPT:ANGRhudaurHintText_12
+"Wir haben diese Seite des Flusses von Arnors Gefolge befreit! \n Wir können jetzt den Außenposten im Norden für Angmar beanspruchen!"
+END
+
+SCRIPT:ANGRhudaurHintText_15
+"ANGMAR-OFFIZIER: Unsere Zuchtmeister werden die aufständischen Hügelmenschen in die Schlacht führen. \n Baut das Lager aus, hebt eine Armee aus und verheert das Land!!"
+END
+
+SCRIPT:ANGRhudaurObjectiveComplete_01
+"Wir haben diese Hunde aus dem letzten Dorf verjagt! \n Die Hügelmenschen von Rhudaur erheben gegen Arnor die Waffen!"
+END
+

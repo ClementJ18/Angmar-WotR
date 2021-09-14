@@ -1,0 +1,83 @@
+SCRIPT:SubmodFornostOpenText
+"GONDOR OFFIZIER: Hier, in den Ländern die er besudelt hat, wendet der Hexenkönig nun die Befestigungen des Juwels von Arnor gegen uns!"
+End
+
+SCRIPT:SubmodCompleted_E04_03
+"Endlich ist die Stadt von Angmars Griff befreit."
+End
+
+SCRIPT:SubmodAnnouncement_E04_01
+"Errichte ein Lager und belagere die Stadt. \n Sei vorsichtig, wir wissen nicht was sich in der Umgebung verbirgt."
+End
+
+SCRIPT:SubmodObjective_E04_01
+"Vernichte alle Streitkräfte Angmars."
+End
+
+SCRIPT:SubmodObjective_E04_02
+"Erobere die äußere Stadt zurück und säubere sie von den Schwarzen Nûmenorern und den Kreaturen, welche sich dort niedergelassen haben."
+End
+
+SCRIPT:SubmodObjective_E04_03
+"Zerstöre das dunkle Tor bevor es weitere Schrecken auf unsere Truppen los lässt."
+End
+
+SCRIPT:SubmodObjective_E04_04
+"Earnur muss überleben."
+End
+
+SCRIPT:SubmodHint_E04_01
+"Erobere das Gasthaus."
+End
+
+SCRIPT:SubmodHint_E04_02
+"Erobere das Leuchtfeuer."
+End
+
+SCRIPT:SuperWeapon01
+"Fokussiere deine Angriffe auf das dunkle Tor! \n Wir müssen es zerstören."
+End
+
+SCRIPT:SubmodCompleted_E04_01
+"Wir haben die äußeren Bezirke von Fornost zurückerobert!"
+End
+
+SCRIPT:SubmodAnnouncement_E04_05
+"Reiße die Überreste der großen Zitadelle von Fornost nieder, damit sie nicht weiter entweiht werden!"
+End
+
+SCRIPT:SuperWeapon02
+"Widerliche Kreaturen strömen aus dem dunklen Tor, bringe es zum Einsturz um den Strom zu stoppen!"
+End
+
+SCRIPT:SuperWeapon03
+"Das dunkle Tor verängstigt unsere Truppen, zerstöre es bevor es sich wieder öffnet."
+End
+
+SCRIPT:SubmodAnnouncement_E04_03
+"Besiege Angmars Helden!"
+End
+
+SCRIPT:SubmodAnnouncement_E04_04
+"Zerstöre das dunkle Tor!"
+End
+
+SCRIPT:SubmodTimer_E04_01
+"Tor öffnet sich:"
+End
+
+SCRIPT:wkRunsAwayLikeABitch
+"HEXENKÖNIG: Unmöglich, das kann nicht sein! Wir werden uns wieder treffen, ihr Narren!"
+End
+
+SCRIPT:EarnurGetsCocky
+"EARNUR: Früher als du dir vorstellst Angstfürst!"
+End
+
+SCRIPT:SubmodHint_E04_03
+"Töte den Dämon!"
+End
+
+SCRIPT:SubmodTest
+"Wir müssen diese dunkle Kreatur töten! Sonst wird es frei umherziehen und dabei Tod und Gemetzel verbreiten!"
+End
