@@ -14,7 +14,7 @@ LivingWorldCampaign WOTRScenarioAngmar
         DisplayDescription  = LWScenario:CampaignAngmarDescription
         DisplayGameType     = LWScenario:WOTRGameTypeCampaign
         DisplayObjectives   = LWScenario:WOTRObjectivesCampaign
-        DisplayFiction      = LWScenario:WOTRScenarioFiction004
+        DisplayFiction      = LWScenario:WOTRScenarioFiction003
         DisplayVictoriousText   = LWScenario:WOTREliminationWinCampaign
         DisplayDefeatedText = LWScenario:WOTREliminationLoseCampaign
 
@@ -152,6 +152,11 @@ LivingWorldCampaign WOTRScenarioAngmar
             InitialRegion = Angmar
         End
 
+        SetPlayerControlOfArmy
+            ArmyScriptingName = Morchant_Army
+            IsControllableByOwner = No
+        End
+
         ;GUNDABAD
         SpawnArmy
             ScriptingName = Goblins_Army
@@ -160,6 +165,11 @@ LivingWorldCampaign WOTRScenarioAngmar
             Icon = WildArmyIcon
             Banner = BannerWild
             InitialRegion = MountGundabad
+        End
+
+        SetPlayerControlOfArmy
+            ArmyScriptingName = Goblins_Army
+            IsControllableByOwner = No
         End
 
         ;RHUDAUR
@@ -172,6 +182,11 @@ LivingWorldCampaign WOTRScenarioAngmar
             InitialRegion = Rhudaur
         End
 
+        SetPlayerControlOfArmy
+            ArmyScriptingName = Argeleb_Army
+            IsControllableByOwner = No
+        End
+
         ;Amon Sul
         SpawnArmy
             ScriptingName = Arveleg_Army
@@ -180,6 +195,11 @@ LivingWorldCampaign WOTRScenarioAngmar
             Icon = ArnorArmyIcon
             Banner = BannerArnor
             InitialRegion = Amon_Sul
+        End
+
+        SetPlayerControlOfArmy
+            ArmyScriptingName = Arveleg_Army
+            IsControllableByOwner = No
         End
 
         ;Dark Eye
@@ -192,6 +212,11 @@ LivingWorldCampaign WOTRScenarioAngmar
             InitialRegion = North_Downs
         End
 
+        SetPlayerControlOfArmy
+            ArmyScriptingName = DarkEye_Army
+            IsControllableByOwner = No
+        End
+
         ;Barrow Downs
         SpawnArmy
             ScriptingName = CardolanPrince_Army
@@ -200,6 +225,11 @@ LivingWorldCampaign WOTRScenarioAngmar
             Icon = ArnorArmyIcon
             Banner = BannerArnor
             Position = X:-485 Y:888
+        End
+
+        SetPlayerControlOfArmy
+            ArmyScriptingName = CardolanPrince_Army
+            IsControllableByOwner = No
         End
 
         ;Carn Dum
@@ -212,6 +242,11 @@ LivingWorldCampaign WOTRScenarioAngmar
             Position = X:215 Y:1467
         End
 
+        SetPlayerControlOfArmy
+            ArmyScriptingName = ImladrisAttack_Army
+            IsControllableByOwner = No
+        End
+
         SpawnArmy
             ScriptingName = ArnorAttack_Army
             SpawnForTemplates = PlayerMen
@@ -219,6 +254,11 @@ LivingWorldCampaign WOTRScenarioAngmar
             Icon = ArnorArmyIcon
             Banner = BannerArnor
             Position = X:-671 Y:1822
+        End
+
+        SetPlayerControlOfArmy
+            ArmyScriptingName = ArnorAttack_Army
+            IsControllableByOwner = No
         End
 
         ;Barrow Wights
@@ -231,6 +271,11 @@ LivingWorldCampaign WOTRScenarioAngmar
             Position = X:-662 Y:1715
         End 
 
+        SetPlayerControlOfArmy
+            ArmyScriptingName = Carthean_Army
+            IsControllableByOwner = No
+        End
+
         ;Fornost
         SpawnArmy
             ScriptingName = Arvedui_Army
@@ -239,6 +284,11 @@ LivingWorldCampaign WOTRScenarioAngmar
             Icon = HeroArveduiIcon
             Banner = BannerArnor
             InitialRegion = Fornost
+        End
+
+        SetPlayerControlOfArmy
+            ArmyScriptingName = Arvedui_Army
+            IsControllableByOwner = No
         End        
 
         ; ACT 1
