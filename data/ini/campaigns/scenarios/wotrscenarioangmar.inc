@@ -78,8 +78,8 @@ LivingWorldCampaign WOTRScenarioAngmar
             // OwnershipSets are how you decide who owns which region at the start of the game (and what armies are owned also)
 
             OwnershipSet
-            Regions = CarnDum
-            StartRegion = CarnDum Mordor
+            Regions = CarnDum Mordor
+            StartRegion = CarnDum 
             ;SpawnBuildings
             ;   Region = Rivendell
             ;   Buildings = LW_ARMORY
@@ -98,6 +98,7 @@ LivingWorldCampaign WOTRScenarioAngmar
     ;//////////////////////////////////////////////////
         
         ;/////// Intro ///////
+        ;TEXT EVENTS
         ;WorldText                       ; Verschwindet erst nach Echtzeiten
         ;    DelayFromActStart = 0.0
         ;    StringTag = LW:Angmar_Start ;Ohne Verweis wird nichts angezeigt
@@ -146,6 +147,7 @@ LivingWorldCampaign WOTRScenarioAngmar
         SpawnArmy
             ScriptingName = Morchant_Army
             SpawnForTemplates = PlayerMen
+            HeroTemplateName = AngmarMorchant
             PlayerArmy = MorchantKampaArmy
             Icon = AngmarArmyIcon
             Banner = BannerAngmar
@@ -161,7 +163,8 @@ LivingWorldCampaign WOTRScenarioAngmar
         SpawnArmy
             ScriptingName = Goblins_Army
             SpawnForTemplates = PlayerMen
-            PlayerArmy = CorruptedWild_StartingArmy
+            HeroTemplateName = OrcChief01
+            PlayerArmy = Wild_Defender
             Icon = WildArmyIcon
             Banner = BannerWild
             InitialRegion = MountGundabad
@@ -176,6 +179,7 @@ LivingWorldCampaign WOTRScenarioAngmar
         SpawnArmy
             ScriptingName = Argeleb_Army
             SpawnForTemplates = PlayerMen
+            HeroTemplateName = ArnorArgeleb
             PlayerArmy = ArgelebKampaArmy
             Icon = ArnorArmyIcon
             Banner = BannerArnor
@@ -191,6 +195,7 @@ LivingWorldCampaign WOTRScenarioAngmar
         SpawnArmy
             ScriptingName = Arveleg_Army
             SpawnForTemplates = PlayerMen
+            HeroTemplateName = ArnorArveleg
             PlayerArmy = ArvelegKampaArmy
             Icon = ArnorArmyIcon
             Banner = BannerArnor
@@ -206,6 +211,7 @@ LivingWorldCampaign WOTRScenarioAngmar
         SpawnArmy
             ScriptingName = DarkEye_Army
             SpawnForTemplates = PlayerMen
+            HeroTemplateName = ArnorMalbeth
             PlayerArmy = Arnor_StandardArmy
             Icon = ArnorArmyIcon
             Banner = BannerArnor
@@ -221,6 +227,7 @@ LivingWorldCampaign WOTRScenarioAngmar
         SpawnArmy
             ScriptingName = CardolanPrince_Army
             SpawnForTemplates = PlayerMen
+            HeroTemplateName = ArnorMalbeth
             PlayerArmy = Arnor_StandardArmy
             Icon = ArnorArmyIcon
             Banner = BannerArnor
@@ -250,6 +257,7 @@ LivingWorldCampaign WOTRScenarioAngmar
         SpawnArmy
             ScriptingName = ArnorAttack_Army
             SpawnForTemplates = PlayerMen
+            HeroTemplateName = ArnorMalbeth
             PlayerArmy = Arnor_StandardArmy
             Icon = ArnorArmyIcon
             Banner = BannerArnor
@@ -265,6 +273,7 @@ LivingWorldCampaign WOTRScenarioAngmar
         SpawnArmy
             ScriptingName = Carthean_Army
             SpawnForTemplates = PlayerMen
+            HeroTemplateName = ArnorCaptainStealthless_mod
             PlayerArmy = ArnorCartheanArmy
             Icon = ArnorArmyIcon
             Banner = BannerArnor
@@ -280,6 +289,7 @@ LivingWorldCampaign WOTRScenarioAngmar
         SpawnArmy
             ScriptingName = Arvedui_Army
             SpawnForTemplates = PlayerMen
+            HeroTemplateName = GondorArvedui
             PlayerArmy = ArnorArveduiArmy
             Icon = HeroArveduiIcon
             Banner = BannerArnor
@@ -291,7 +301,7 @@ LivingWorldCampaign WOTRScenarioAngmar
             IsControllableByOwner = No
         End        
 
-        ; ACT 1
+        ;///// ACT1 //////
         MoveArmy
             ArmyScriptingName  = WitchKing_Army
             TargetRegionName = Angmar
@@ -368,10 +378,30 @@ LivingWorldCampaign WOTRScenarioAngmar
     ;//////////////////////////////////////////////////
     Act Four ;Dark Eye & Barrow_Downs
     ;//////////////////////////////////////////////////
+        SpawnArmy
+            ScriptingName = Arveleg2_Army
+            SpawnForTemplates = PlayerMen
+            HeroTemplateName = ArnorArveleg
+            PlayerArmy = ArvelegKampaArmy
+            Icon = ArnorArmyIcon
+            Banner = BannerArnor
+            InitialRegion = Amon_Sul
+        End
+
+        SetPlayerControlOfArmy
+            ArmyScriptingName = Arveleg2_Army
+            IsControllableByOwner = No
+        End
+
         MoveArmy
             ArmyScriptingName  = WitchKing_Army
             TargetRegionName = North_Downs
             ;DefaultArmyMoveSpeed = 20.0
+        End
+
+        MoveArmy 
+            ArmyScriptingName = Arveleg2_Army
+            TargetRegionName = North_Downs
         End
 
         MoveArmy
@@ -676,6 +706,10 @@ LivingWorldPlayerArmy
     Name = Arnor_StandardArmy
     DisplayNameTag = LWA:ArnorGarrison
     ArmyEntry
+        ThingTemplate = ArnorMalbeth
+        Quantity = 1
+    End
+    ArmyEntry
         ThingTemplate = ArnorFighterHorde
         Quantity = 1
     End 
@@ -692,3 +726,24 @@ LivingWorldPlayerArmy
         Quantity = 1
     End
 End
+
+LivingWorldPlayerArmy
+    Name = Wild_Defender
+    DisplayNameTag = LWA:WildGarrison
+    ArmyEntry
+        ThingTemplate = OrcChief01
+        Quantity = 1
+    End
+    ArmyEntry
+        ThingTemplate = GoblinFighterHorde
+        Quantity = 1
+    End
+    ArmyEntry
+        ThingTemplate = GoblinArcherHorde
+        Quantity = 1
+    End
+    ArmyEntry
+        ThingTemplate = GoblinCaveTroll
+        Quantity = 1
+    End
+End 

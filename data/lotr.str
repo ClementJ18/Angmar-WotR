@@ -110528,7 +110528,11 @@ LWScenario:CampaignAngmarDescription
 "Begin the story-driven Angmar Campaign. Play as Angmar against an AI Gondor."
 End
 
+OBJECT:AngmarBlutKelch_AngmarCampaign
+"Blood Chalice"
+END
 
-
-
+OBJECT:HeroicStatueDescriptionBlutkelch_AngmarCampaign
+"The Blood Chalice invigorates both heroes and units around it, granting them increased stats and healing. When the chalice is destroyed its content spill everywhere, regenerating a unit from nearby hordes."
+END
 
