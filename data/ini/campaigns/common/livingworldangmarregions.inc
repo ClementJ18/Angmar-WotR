@@ -66,7 +66,7 @@ End
 Region MountGundabad
 	DisplayName			= LW:DisplayNameMountGundabad
 	ConqueredNotice			= APT:LivingWorldRegionTakenNotice
-	MapName				= "MAP ANG GundabadTwo"
+	MapName				= "map kampa angmar 02"
 	MovieNameFirstTime		= Angmar_Campaign_M2Open
 	MovieNameRepeat		= Angmar_Campaign_M2Open
 	SkirmishStillImage		= CampaignAngmar_Gundabad_Loadscreen
