@@ -194,11 +194,11 @@ CONTROLBAR:TooltipScreechWitchKing_Campaign
 "The horrible screeching of the Nazgul causes enemy units to flee in terror \n Left click to activate"
 End
 
-CONTROLBAR:ToolTipRogashTrollhÃ¶hen_Neu
+CONTROLBAR:ToolTipRogashTrollhöhen_Neu
 "Requires: Level 10 \n Rogash summons 3 Trolls from Angmar. \n Left click on target area"
 END
 
-CONTROLBAR:RogashTrollhÃ¶hen
+CONTROLBAR:RogashTrollhöhen
 "Trolls of Angmar  (&B)"
 END
 
