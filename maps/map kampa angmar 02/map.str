@@ -34,43 +34,43 @@ SCRIPT:GUN_INTRO_1
 "ROGASH: Speak."
 End
 
-SCRIPT:GUN_INTRO_5
+SCRIPT:GUN_INTRO_51
 "DARK RANGER: The orcs are engaged in a competition to elect a new leader."
 End
 
-SCRIPT:GUN_INTRO_8
+SCRIPT:GUN_INTRO_81
 "DARK RANGER: The first chieftain to kill 250 goblins becomes the new Headman of Gundabad."
 End
 
-SCRIPT:GUN_INTRO_2
+SCRIPT:GUN_INTRO_21
 "DARK RANGER: The chieftains are spread throughout the area killing goblins and each other."
 End
 
-SCRIPT:GUN_INTRO_9
+SCRIPT:GUN_INTRO_91
 "DARK RANGER: Some of the leaders have already been eliminated, by both treachery and goblin ambushes."
 End
 
-SCRIPT:GUN_INTRO_3
+SCRIPT:GUN_INTRO_31
 "DARK RANGER: It seems the goblins don't like being hunted for sport."
 End
 
-SCRIPT:GUN_INTRO_4
-"ROGASH: Done well. Return unit, look more. I call when needed."
+SCRIPT:GUN_INTRO_41
+"ROGASH: Done well. Return, look more. I call when needed."
 End
 
-SCRIPT:GUN_INTRO_6
+SCRIPT:GUN_INTRO_61
 "DARK RANGER: I obey."
 End
 
-SCRIPT:GUN_INTRO_10
+SCRIPT:GUN_INTRO_101
 "If we kill 300 Goblins, none of the Orcs can win."
 End
 
-SCRIPT:GUN_INTRO_11
+SCRIPT:GUN_INTRO_111
 "And as per your orders, reinforcements await your summons. You need only light the signal fire and they will come."
 End
 
-SCRIPT:GUN_INTRO_7
+SCRIPT:GUN_INTRO_71
 "ROGASH: Return; tell master that orcs be his soon. You stay. We kill goblins, make game ours."
 End
 
@@ -86,15 +86,15 @@ SCRIPT:GUN_END_02
 "ORC CHIEFTAINS: No one has enough. I have the most...No! I should lead!... Bah! You could never lead!...If not me, who then?"
 End
 
-SCRIPT:GUN_END_03
+SCRIPT:GUN_END_031
 "ROGASH: Strongest Leads."
 End
 
-SCRIPT:GUN_END_04
+SCRIPT:GUN_END_041
 "ORC CHIEFTAIN: Gundabad will never follow a half-troll!"
 End
 
-SCRIPT:GUN_END_05
+SCRIPT:GUN_END_051
 "ROGASH: Not me. Dark King."
 End
 
@@ -102,7 +102,7 @@ SCRIPT:GOBLIN_TOWERS_01
 "Those towers might have archers in them. Destroy the towers to get them out!"
 End
 
-SCRIPT:WARG_ATTACK_01
+SCRIPT:WARG_ATTACK_011
 "The half-troll is coming this way. Don't let him kill any more goblins. Stop Him!"
 End
 
@@ -209,3 +209,7 @@ END
 CONTROLBAR:ToolTipBloodChalice
 "By enacting a horrible sacrifice the Sorcerers of Angmar fill a chalice with enchanted blood, invigorating nearby allied heroes and units."
 END
+
+SCRIPT:Showfish
+"KAZEJI SAGE: Either there was a flash freeze or whoever told me I could find violet kois \nin this lake failed geography."
+End
