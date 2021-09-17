@@ -6,8 +6,12 @@ SCRIPT:HEADS_ON_ROGASH
 "Rogash Head total:"
 End
 
-SCRIPT:GUNDABAD_OBJ_1
+SCRIPT:GUNDABAD_OBJ_11
 "Prevent the Orc Chieftains from winning by collecting 300 Goblin heads"
+End
+
+SCRIPT:GUNDABAD_OBJ_12
+"Prevent the Orc Chieftains from winning by collecting 300 Goblin heads\nDestroy the three piles of Goblin Heads located in the Orc Camps"
 End
 
 SCRIPT:GUNDABAD_OBJ_2
