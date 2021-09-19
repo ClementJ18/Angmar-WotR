@@ -197,3 +197,15 @@ END
 CONTROLBAR:ToolTipBloodChalice
 "By enacting a horrible sacrifice the Sorcerers of Angmar fill a chalice with enchanted blood, invigorating nearby allied heroes and units."
 END
+
+SCRIPT:Egg1
+"AN ELF: That doesn't make any sense, how can you FEEL air?"
+End
+
+SCRIPT:Egg2
+"AN ELF: At best you can SMELL it, you can't feel it."
+End
+
+SCRIPT:Egg3
+"AN ELF: Dialogs have really gone downhill ever since He started writing them..."
+End
