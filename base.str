@@ -1,0 +1,27 @@
+CONTROLBAR:SpellBookObjectives
+"Current Objective"
+End
+
+CONTROLBAR:TooltipSpellBookObjectives
+"What was I doing again? Something about a Ring."
+End
+
+CONTROLBAR:TooltipScreechWitchKing_Campaign
+"The horrible screeching of the Nazgul causes enemy units to flee in terror \n Left click to activate"
+End
+
+CONTROLBAR:ToolTipRogashTrollhöhen_Neu
+"Requires: Level 10 \n Rogash summons 3 Trolls from Angmar. \n Left click on target area"
+END
+
+CONTROLBAR:RogashTrollhöhen
+"Trolls of Angmar  (&B)"
+END
+
+CONTROLBAR:BloodChalice
+"Ritual of Invigoration"
+END
+
+CONTROLBAR:ToolTipBloodChalice
+"By enacting a horrible sacrifice the Sorcerers of Angmar fill a chalice with enchanted blood, invigorating nearby allied heroes and units."
+END

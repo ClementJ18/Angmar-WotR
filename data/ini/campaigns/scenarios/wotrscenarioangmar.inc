@@ -665,7 +665,7 @@ LivingWorldPlayerArmy
     End
 
     ArmyEntry
-        ThingTemplate = AngmarHwaldar
+        ThingTemplate = AngmarHwaldar_mod
         Quantity = 1
     End
 

@@ -117,7 +117,7 @@ End
 Region Rhudaur
 	DisplayName				= LW:DisplayNameRhudaur
 	ConqueredNotice			= APT:LivingWorldRegionTakenNotice
-	MapName					= "MAP ANG Rhudaur"
+	MapName					= "map kampa angmar 03"
 	MovieNameFirstTime		= Angmar_Campaign_M3Open
 	MovieNameRepeat		= Angmar_Campaign_M3Open
 	SkirmishStillImage		= CampaignAngmar_Rhudaur_Loadscreen
